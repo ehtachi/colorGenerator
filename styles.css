@@ -1,0 +1,22 @@
+.akash{
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn{
+    border: none;
+    border-radius: 50px;
+    height: 7vw;
+    width: 50vw;
+    font-size: 3.25vw;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.akash h1{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 5vw;
+}
