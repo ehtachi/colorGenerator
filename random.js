@@ -7,7 +7,6 @@ btn.addEventListener('click', () => {
 
     while(col.length != 7){
         col += rand.charAt(Math.floor(Math.random()*rand.length));
-        console.log(col);
     };
 
     if(col === "#000000"){
